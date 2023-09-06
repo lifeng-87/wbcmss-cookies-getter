@@ -6,7 +6,7 @@
 
   python 3.9 或以上
 
-  chrome 116 版
+  chrome 116 版或以上
 
   重新命名 .env.example 為 .env 並且填入帳號與密碼
 
