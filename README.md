@@ -11,4 +11,6 @@
   執行 main.py
 
 ## Other
+  cookie 會存放在 cookies.json 裡面
+
   不確定email認證沒有通過可不可以使用，理論上是可以拿到cookie
