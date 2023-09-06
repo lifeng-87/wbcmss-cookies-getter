@@ -1,6 +1,6 @@
 # Wbcmss cookies getter
 
-  取得勤益科大學生篇登入cookie
+  取得勤益科大學生篇登入cookie的腳本
 
 ## Setup
 
